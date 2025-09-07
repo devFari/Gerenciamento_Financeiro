@@ -1,0 +1,257 @@
+/* Estilo geral para todas as páginas */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f4f8;
+    color: #333;
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Estilo para a página index.html */
+.index-page-body {
+    align-items: center;
+    justify-content: center;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+    flex-grow: 1;
+}
+
+.page-title {
+    font-size: 2.5em;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 40px;
+}
+
+.button-group {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+    max-width: 300px;
+}
+
+.custom-button {
+    display: block;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #007bff;
+    border-radius: 8px;
+    font-size: 1.1em;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.custom-button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+}
+
+.custom-button:active {
+    transform: translateY(0);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para a página dashboard.html */
+.dashboard-page-body {
+    padding: 20px;
+}
+
+.dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 40px;
+}
+
+
+
+.dashboard-title {
+    font-size: 2.5em;
+    font-weight: 600;
+    margin: 0;
+}
+
+.back-link {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+    padding: 8px 15px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.back-link:hover {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 90%; /* Ajuste a largura conforme sua preferência */
+    max-width: 1200px;
+    margin: 20px auto;
+}
+
+.chart-row {
+    display: grid;
+    /* Cria colunas que se ajustam automaticamente para ter um mínimo de 300px. */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.chart-card {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.chart-card h2 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #555;
+}
+
+#total-investido-card,
+#total-gastos-mes-card{
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#total-investido-card h2,
+#total-gastos-mes-card h2  {
+    color: #fff;
+}
+
+#total-investido-valor,
+#total-gastos-mes-valor {
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+.footer {
+    width: 100%;
+    text-align: center;
+    color: #999;
+    font-size: 0.8em;
+    margin-top: auto;
+}
+
+/* Estilo para a página do formulário */
+.form-page-body {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+    margin-bottom: 20px;
+}
+
+.form-title {
+    font-size: 2em;
+    font-weight: 600;
+    color: #333;
+    margin: 0;
+}
+
+.form-container {
+    max-width: 600px;
+    width: 100%;
+    background: #fff;
+    padding: 20px 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555;
+}
+
+select, input[type="number"], textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 1em;
+}
+
+.hidden {
+    display: none;
+}
+
+.submit-button {
+    width: 100%;
+    padding: 15px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.submit-button:hover {
+    background-color: #218838;
+}
+
+.large-chart {
+    grid-column: 1 / -1; /* Ocupa todas as colunas disponíveis */
+}
+
+.large-chart2-3 {
+    grid-column: span 2;
+}
+
+

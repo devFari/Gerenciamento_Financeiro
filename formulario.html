@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de Lançamento</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="form-page-body">
+    <header class="form-header">
+        <h1 class="form-title">Adicionar Lançamento</h1>
+        <a href="index.html" class="back-link">Voltar</a>
+    </header>
+
+    <div class="form-container">
+        <form id="lancamento-form">
+            <div class="form-group">
+                <label for="tipo">Ganhou ou Gastou?</label>
+                <select id="tipo" required>
+                    <option value="" disabled selected>Selecione...</option>
+                    <option value="ganhou">Ganhou</option>
+                    <option value="gastou">Gastou</option>
+                </select>
+            </div>
+
+            <div id="campos-gastou" class="hidden">
+                <div class="form-group">
+                    <label for="local-gasto">Onde foi o gasto?</label>
+                    <select id="local-gasto">
+                        <option value="" disabled selected>Selecione...</option>
+                        <option value="Nubank">Nubank</option>
+                        <option value="Pic Pay">Pic Pay</option>
+                        <option value="Itaú">Itaú</option>
+                        <option value="C6 Bank">C6 Bank</option>
+                        <option value="Inter">Inter</option>
+                        <option value="Pluxee">Pluxee</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="forma-gasto">Forma de gasto:</label>
+                    <select id="forma-gasto">
+                        <option value="" disabled selected>Selecione...</option>
+                        <option value="Credito">Crédito</option>
+                        <option value="Debito">Débito</option>
+                        <option value="Pix">Pix</option>
+                        <option value="Investimento">Investimento</option>
+                    </select>
+                </div>
+            </div>
+
+            <div id="parcelas-credito" class="hidden">
+                <div class="form-group">
+                    <label for="parcelas">Quantidade de parcelas:</label>
+                    <select id="parcelas">
+                        <option value="" disabled selected>Selecione...</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="valor">Qual o valor?</label>
+                <input type="number" id="valor" step="0.01" required>
+            </div>
+
+            <div class="form-group">
+                <label for="descricao">Descrição (opcional):</label>
+                <textarea id="descricao" rows="3"></textarea>
+            </div>
+
+            <button type="submit" class="submit-button">Enviar</button>
+        </form>
+    </div>
+
+    <footer class="footer">
+        <p>product by DevFari</p>
+    </footer>
+    
+    <script src="scripts/main.js"></script>
+</body>
+</html>

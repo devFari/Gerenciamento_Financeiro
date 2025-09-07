@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Financeiro</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="dashboard-page-body">
+    <header class="dashboard-header">
+        <h1 class="dashboard-title">Dashboard Financeiro</h1>
+        <a href="index.html" class="back-link">Voltar</a>
+    </header>
+    
+    <div class="dashboard-container">
+
+        <div class="chart-row">
+            <div class="chart-card">
+                <div class="card-header">
+                    <h2>Evolução dos Salários</h2>
+                    <select id="filtro-salarios">
+                        <option value="12">Últimos 12</option>
+                        <option value="6">Últimos 6</option>
+                        <option value="3">Últimos 3</option>
+                    </select>
+                </div>
+                <canvas id="salariosChart"></canvas>
+            </div>
+
+            <div class="chart-card">
+                <h2>Saldo Líquido Mensal</h2>
+                <canvas id="saldoMensalChart"></canvas>
+            </div>
+
+        </div>
+
+        
+        <div class="chart-row">
+            <div id="total-gastos-mes-card" class="chart-card">
+                <h2>Gastos do Mês</h2>
+                <div id="total-gastos-mes-valor">R$ 0,00</div>
+            </div>
+
+        </div>
+        
+        <div class="chart-row">
+            <div class="chart-card large-chart2-3">
+                <h2>Gastos por Mês</h2>
+                <canvas id="gastosMensaisChart"></canvas>
+            </div>
+
+            <div class="chart-card">
+                <h2>Gastos por Banco</h2>
+                <canvas id="gastosPorBancoChart"></canvas>
+            </div>
+
+        </div>
+
+        <div class="chart-row">
+            <div id="total-investido-card" class="large-chart">
+                <h2>Total Investido</h2>
+                <div id="total-investido-valor">R$ 0,00</div>
+            </div>
+
+        </div>
+
+        <div class="chart-row">
+            <div class="chart-card">
+                <h2>Total Investido por Banco</h2>
+                <canvas id="investimentoPorBancoChart"></canvas>
+            </div>
+
+            <div class="chart-card">
+                <h2>Comparação: Salário vs. Investimento</h2>
+                <canvas id="salarioVsInvestimentoChart"></canvas>
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="scripts/dashboard.js"></script>
+</body>
+</html>

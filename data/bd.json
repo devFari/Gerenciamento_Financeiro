@@ -1,0 +1,1450 @@
+[{
+    "tipo": "gastou",
+    "data": "2024-11-10",
+    "valor": 1200.00,
+    "descricao": "Notebook novo",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 6
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-20",
+    "valor": 850.00,
+    "descricao": "Smartphone",
+    "local": "Itaú",
+    "forma": "Credito",
+    "parcelas": 5
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-05",
+    "valor": 1800.00,
+    "descricao": "TV 55 polegadas",
+    "local": "C6 Bank",
+    "forma": "Credito",
+    "parcelas": 10
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-15",
+    "valor": 720.00,
+    "descricao": "Tablet",
+    "local": "Pic Pay",
+    "forma": "Credito",
+    "parcelas": 8
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-25",
+    "valor": 1320.00,
+    "descricao": "Videogame",
+    "local": "Sicredi",
+    "forma": "Credito",
+    "parcelas": 12
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-10",
+    "valor": 900.00,
+    "descricao": "Máquina de lavar",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 6
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-20",
+    "valor": 600.00,
+    "descricao": "Geladeira",
+    "local": "Itaú",
+    "forma": "Credito",
+    "parcelas": 5
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-02-05",
+    "valor": 1440.00,
+    "descricao": "Fogão e forno",
+    "local": "C6 Bank",
+    "forma": "Credito",
+    "parcelas": 9
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-02-15",
+    "valor": 1080.00,
+    "descricao": "Micro-ondas",
+    "local": "Pic Pay",
+    "forma": "Credito",
+    "parcelas": 12
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-02-25",
+    "valor": 780.00,
+    "descricao": "Aspirador de pó",
+    "local": "Sicredi",
+    "forma": "Credito",
+    "parcelas": 7
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-03-10",
+    "valor": 1500.00,
+    "descricao": "Ar condicionado",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 10
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-03-20",
+    "valor": 960.00,
+    "descricao": "Lava-louças",
+    "local": "Itaú",
+    "forma": "Credito",
+    "parcelas": 8
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-05",
+    "valor": 660.00,
+    "descricao": "Cafeteira elétrica",
+    "local": "C6 Bank",
+    "forma": "Credito",
+    "parcelas": 6
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-15",
+    "valor": 1140.00,
+    "descricao": "Móveis para sala",
+    "local": "Pic Pay",
+    "forma": "Credito",
+    "parcelas": 12
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-25",
+    "valor": 840.00,
+    "descricao": "Móveis para quarto",
+    "local": "Sicredi",
+    "forma": "Credito",
+    "parcelas": 7
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-05-10",
+    "valor": 1260.00,
+    "descricao": "Colchão ortopédico",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 9
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-05-20",
+    "valor": 1020.00,
+    "descricao": "Eletrodomésticos cozinha",
+    "local": "Itaú",
+    "forma": "Credito",
+    "parcelas": 11
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-06-05",
+    "valor": 1380.00,
+    "descricao": "Câmera fotográfica",
+    "local": "C6 Bank",
+    "forma": "Credito",
+    "parcelas": 12
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-06-15",
+    "valor": 750.00,
+    "descricao": "Fones de ouvido premium",
+    "local": "Pic Pay",
+    "forma": "Credito",
+    "parcelas": 5
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-06-25",
+    "valor": 1110.00,
+    "descricao": "Smartwatch",
+    "local": "Sicredi",
+    "forma": "Credito",
+    "parcelas": 10
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-01-07",
+    "valor": 1621,
+    "descricao": "salario ",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-02-07",
+    "valor": 1621,
+    "descricao": "salario ",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-03-07",
+    "valor": 1621,
+    "descricao": "salario ",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-04-07",
+    "valor": 1621,
+    "descricao": "salario ",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-05-07",
+    "valor": 1621,
+    "descricao": "salario ",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-06-07",
+    "valor": 1621,
+    "descricao": "salario ",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-07-07",
+    "valor": 1621,
+    "descricao": "salario ",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-08-07",
+    "valor": 1621,
+    "descricao": "salario ",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-09-07",
+    "valor": 1621,
+    "descricao": "salario ",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-09-06",
+    "valor": 46,
+    "descricao": "Ração de Luna",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 1
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-09-07",
+    "valor": 50,
+    "descricao": "investimento em Cartão de credito",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2024-10-29",
+    "valor": 1621,
+    "descricao": "salário",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-10-30",
+    "valor": 85.90,
+    "descricao": "Mercado mensal",
+    "local": "Nubank",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-10-31",
+    "valor": 120.00,
+    "descricao": "Jantar com amigos",
+    "local": "Pic Pay",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-01",
+    "valor": 45.50,
+    "descricao": "Uber para trabalho",
+    "local": "Itaú",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-02",
+    "valor": 320.00,
+    "descricao": "Celular novo",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 6
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2024-11-07",
+    "valor": 1621,
+    "descricao": "salário",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-08",
+    "valor": 89.90,
+    "descricao": "Assinatura Netflix",
+    "local": "C6 Bank",
+    "forma": "Credito",
+    "parcelas": 1
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-10",
+    "valor": 65.00,
+    "descricao": "Farmácia",
+    "local": "Inter",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-12",
+    "valor": 150.00,
+    "descricao": "Combustível",
+    "local": "Pluxee",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-15",
+    "valor": 220.00,
+    "descricao": "Jantar em restaurante",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 2
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-18",
+    "valor": 75.50,
+    "descricao": "Supermercado",
+    "local": "Itaú",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-20",
+    "valor": 50.00,
+    "descricao": "Investimento mensal",
+    "local": "Nubank",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2024-12-07",
+    "valor": 1621,
+    "descricao": "salário",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-10",
+    "valor": 420.00,
+    "descricao": "Presentes de Natal",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 3
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-15",
+    "valor": 180.00,
+    "descricao": "Ceia de Natal",
+    "local": "C6 Bank",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-20",
+    "valor": 95.00,
+    "descricao": "Uber para festa",
+    "local": "Itaú",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-22",
+    "valor": 300.00,
+    "descricao": "Roupas novas",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 4
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-01-07",
+    "valor": 1621,
+    "descricao": "salário",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-10",
+    "valor": 120.00,
+    "descricao": "Material escolar",
+    "local": "Inter",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-12",
+    "valor": 85.90,
+    "descricao": "Mercado",
+    "local": "Pluxee",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-15",
+    "valor": 200.00,
+    "descricao": "Consulta médica",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 2
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-18",
+    "valor": 65.00,
+    "descricao": "Farmácia",
+    "local": "Itaú",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-20",
+    "valor": 50.00,
+    "descricao": "Investimento mensal",
+    "local": "Nubank",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-02-07",
+    "valor": 1621,
+    "descricao": "salário",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-02-10",
+    "valor": 350.00,
+    "descricao": "Conserto do notebook",
+    "local": "C6 Bank",
+    "forma": "Credito",
+    "parcelas": 3
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-02-14",
+    "valor": 180.00,
+    "descricao": "Jantar romântico",
+    "local": "Nubank",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-02-18",
+    "valor": 95.50,
+    "descricao": "Supermercado",
+    "local": "Itaú",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-02-20",
+    "valor": 50.00,
+    "descricao": "Investimento mensal",
+    "local": "Nubank",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-03-07",
+    "valor": 1621,
+    "descricao": "salário",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-03-10",
+    "valor": 220.00,
+    "descricao": "Roupas de verão",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 2
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-03-15",
+    "valor": 120.00,
+    "descricao": "Farmácia",
+    "local": "Inter",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-03-18",
+    "valor": 85.90,
+    "descricao": "Mercado",
+    "local": "Pluxee",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-03-20",
+    "valor": 50.00,
+    "descricao": "Investimento mensal",
+    "local": "C6 Bank",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-04-07",
+    "valor": 1621,
+    "descricao": "salário",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-10",
+    "valor": 300.00,
+    "descricao": "Presente aniversário",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 3
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-15",
+    "valor": 150.00,
+    "descricao": "Combustível",
+    "local": "C6 Bank",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-18",
+    "valor": 95.50,
+    "descricao": "Supermercado",
+    "local": "Itaú",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-20",
+    "valor": 50.00,
+    "descricao": "Investimento mensal",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-05-07",
+    "valor": 1621,
+    "descricao": "salário",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-05-10",
+    "valor": 180.00,
+    "descricao": "Jantar familiar",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 2
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-05-15",
+    "valor": 120.00,
+    "descricao": "Farmácia",
+    "local": "Inter",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-05-18",
+    "valor": 85.90,
+    "descricao": "Mercado",
+    "local": "Pluxee",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-05-20",
+    "valor": 50.00,
+    "descricao": "Investimento mensal",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-06-07",
+    "valor": 1621,
+    "descricao": "salário",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-06-10",
+    "valor": 250.00,
+    "descricao": "Roupas de inverno",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 4
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-06-15",
+    "valor": 150.00,
+    "descricao": "Combustível",
+    "local": "C6 Bank",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-06-18",
+    "valor": 95.50,
+    "descricao": "Supermercado",
+    "local": "Itaú",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-06-20",
+    "valor": 50.00,
+    "descricao": "Investimento mensal",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-07-07",
+    "valor": 1621,
+    "descricao": "salário",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-07-10",
+    "valor": 320.00,
+    "descricao": "Presente especial",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 3
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-07-15",
+    "valor": 120.00,
+    "descricao": "Farmácia",
+    "local": "Inter",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-07-18",
+    "valor": 85.90,
+    "descricao": "Mercado",
+    "local": "Pluxee",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-07-20",
+    "valor": 50.00,
+    "descricao": "Investimento mensal",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-08-07",
+    "valor": 1621,
+    "descricao": "salário",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-08-10",
+    "valor": 180.00,
+    "descricao": "Jantar com colegas",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 2
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-08-15",
+    "valor": 150.00,
+    "descricao": "Combustível",
+    "local": "C6 Bank",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-08-18",
+    "valor": 95.50,
+    "descricao": "Supermercado",
+    "local": "Itaú",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-08-20",
+    "valor": 50.00,
+    "descricao": "Investimento mensal",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "ganhou",
+    "data": "2025-09-07",
+    "valor": 1621,
+    "descricao": "salário",
+    "motivo": "Salario"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-09-06",
+    "valor": 46.00,
+    "descricao": "Ração de Luna",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 1
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-09-07",
+    "valor": 50.00,
+    "descricao": "Investimento em Cartão de crédito",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-05",
+    "valor": 75.00,
+    "descricao": "Livros",
+    "local": "Itaú",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-08",
+    "valor": 42.50,
+    "descricao": "Lanches",
+    "local": "Nubank",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-12",
+    "valor": 89.90,
+    "descricao": "Assinatura Spotify",
+    "local": "C6 Bank",
+    "forma": "Credito",
+    "parcelas": 1
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-16",
+    "valor": 135.00,
+    "descricao": "Material de escritório",
+    "local": "Inter",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-20",
+    "valor": 65.00,
+    "descricao": "Farmácia",
+    "local": "Pluxee",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-24",
+    "valor": 200.00,
+    "descricao": "Jantar especial",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 2
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-28",
+    "valor": 95.50,
+    "descricao": "Supermercado",
+    "local": "Itaú",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-02",
+    "valor": 50.00,
+    "descricao": "Cinema",
+    "local": "Pic Pay",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-06",
+    "valor": 180.00,
+    "descricao": "Presente",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 3
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-10",
+    "valor": 120.00,
+    "descricao": "Farmácia",
+    "local": "Inter",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-14",
+    "valor": 85.90,
+    "descricao": "Mercado",
+    "local": "Pluxee",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-18",
+    "valor": 220.00,
+    "descricao": "Jantar com amigos",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 2
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-22",
+    "valor": 150.00,
+    "descricao": "Combustível",
+    "local": "C6 Bank",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-26",
+    "valor": 95.50,
+    "descricao": "Supermercado",
+    "local": "Itaú",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-30",
+    "valor": 50.00,
+    "descricao": "Investimento mensal",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-03",
+    "valor": 300.00,
+    "descricao": "Roupas",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 4
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-07",
+    "valor": 120.00,
+    "descricao": "Farmácia",
+    "local": "Inter",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-11",
+    "valor": 85.90,
+    "descricao": "Mercado",
+    "local": "Pluxee",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-15",
+    "valor": 180.00,
+    "descricao": "Jantar",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 2
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-19",
+    "valor": 150.00,
+    "descricao": "Combustível",
+    "local": "C6 Bank",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-23",
+    "valor": 95.50,
+    "descricao": "Supermercado",
+    "local": "Itaú",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-27",
+    "valor": 50.00,
+    "descricao": "Investimento mensal",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-31",
+    "valor": 250.00,
+    "descricao": "Eletrônicos",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 5
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-02-04",
+    "valor": 120.00,
+    "descricao": "Farmácia",
+    "local": "Inter",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-02-08",
+    "valor": 85.90,
+    "descricao": "Mercado",
+    "local": "Pluxee",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-02-12",
+    "valor": 200.00,
+    "descricao": "Jantar",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 2
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-02-16",
+    "valor": 150.00,
+    "descricao": "Combustível",
+    "local": "C6 Bank",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-02-20",
+    "valor": 95.50,
+    "descricao": "Supermercado",
+    "local": "Itaú",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-02-24",
+    "valor": 50.00,
+    "descricao": "Investimento mensal",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-02-28",
+    "valor": 280.00,
+    "descricao": "Roupas",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 4
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-03-04",
+    "valor": 120.00,
+    "descricao": "Farmácia",
+    "local": "Inter",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-03-08",
+    "valor": 85.90,
+    "descricao": "Mercado",
+    "local": "Pluxee",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-03-12",
+    "valor": 180.00,
+    "descricao": "Jantar",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 2
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-03-16",
+    "valor": 150.00,
+    "descricao": "Combustível",
+    "local": "C6 Bank",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-03-20",
+    "valor": 95.50,
+    "descricao": "Supermercado",
+    "local": "Itaú",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-03-24",
+    "valor": 50.00,
+    "descricao": "Investimento mensal",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-03-28",
+    "valor": 320.00,
+    "descricao": "Eletrônicos",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 4
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-01",
+    "valor": 120.00,
+    "descricao": "Farmácia",
+    "local": "Inter",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-05",
+    "valor": 85.90,
+    "descricao": "Mercado",
+    "local": "Pluxee",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-09",
+    "valor": 200.00,
+    "descricao": "Jantar",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 2
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-13",
+    "valor": 150.00,
+    "descricao": "Combustível",
+    "local": "C6 Bank",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-17",
+    "valor": 95.50,
+    "descricao": "Supermercado",
+    "local": "Itaú",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-21",
+    "valor": 50.00,
+    "descricao": "Investimento mensal",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-25",
+    "valor": 280.00,
+    "descricao": "Roupas",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 4
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-29",
+    "valor": 120.00,
+    "descricao": "Farmácia",
+    "local": "Inter",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-05-03",
+    "valor": 85.90,
+    "descricao": "Mercado",
+    "local": "Pluxee",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-05-07",
+    "valor": 180.00,
+    "descricao": "Jantar",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 2
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-05-11",
+    "valor": 150.00,
+    "descricao": "Combustível",
+    "local": "C6 Bank",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-05-15",
+    "valor": 95.50,
+    "descricao": "Supermercado",
+    "local": "Itaú",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-05-19",
+    "valor": 50.00,
+    "descricao": "Investimento mensal",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-05-23",
+    "valor": 300.00,
+    "descricao": "Eletrônicos",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 5
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-05-27",
+    "valor": 120.00,
+    "descricao": "Farmácia",
+    "local": "Inter",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-05-31",
+    "valor": 85.90,
+    "descricao": "Mercado",
+    "local": "Pluxee",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-06-04",
+    "valor": 200.00,
+    "descricao": "Jantar",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 2
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-06-08",
+    "valor": 150.00,
+    "descricao": "Combustível",
+    "local": "C6 Bank",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-06-12",
+    "valor": 95.50,
+    "descricao": "Supermercado",
+    "local": "Itaú",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-06-16",
+    "valor": 50.00,
+    "descricao": "Investimento mensal",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-06-20",
+    "valor": 280.00,
+    "descricao": "Roupas",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 4
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-06-24",
+    "valor": 120.00,
+    "descricao": "Farmácia",
+    "local": "Inter",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-06-28",
+    "valor": 85.90,
+    "descricao": "Mercado",
+    "local": "Pluxee",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-07-02",
+    "valor": 180.00,
+    "descricao": "Jantar",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 2
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-07-06",
+    "valor": 150.00,
+    "descricao": "Combustível",
+    "local": "C6 Bank",
+    "forma": "Debito"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-07-10",
+    "valor": 95.50,
+    "descricao": "Supermercado",
+    "local": "Itaú",
+    "forma": "Pix"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-07-14",
+    "valor": 50.00,
+    "descricao": "Investimento mensal",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-07-18",
+    "valor": 320.00,
+    "descricao": "Eletrônicos",
+    "local": "Nubank",
+    "forma": "Credito",
+    "parcelas": 4
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-05",
+    "valor": 100.00,
+    "descricao": "Investimento em Tesouro Direto",
+    "local": "Nubank",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-15",
+    "valor": 200.00,
+    "descricao": "Aplicação em Fundo Imobiliário",
+    "local": "Itaú",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-11-25",
+    "valor": 150.00,
+    "descricao": "Compra de Ações",
+    "local": "C6 Bank",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-05",
+    "valor": 250.00,
+    "descricao": "Investimento em CDB",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-15",
+    "valor": 180.00,
+    "descricao": "Aplicação em ETF",
+    "local": "Sicredi",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2024-12-25",
+    "valor": 300.00,
+    "descricao": "Investimento em Criptomoedas",
+    "local": "Nubank",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-05",
+    "valor": 120.00,
+    "descricao": "Aplicação em Fundo de Renda Fixa",
+    "local": "Itaú",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-15",
+    "valor": 220.00,
+    "descricao": "Investimento em Ações Dividendas",
+    "local": "C6 Bank",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-01-25",
+    "valor": 170.00,
+    "descricao": "Aplicação em LCIs",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-02-05",
+    "valor": 280.00,
+    "descricao": "Investimento em Fundo Multimercado",
+    "local": "Sicredi",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-02-15",
+    "valor": 130.00,
+    "descricao": "Aplicação em Debêntures",
+    "local": "Nubank",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-02-25",
+    "valor": 240.00,
+    "descricao": "Investimento em Ações Growth",
+    "local": "Itaú",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-03-05",
+    "valor": 190.00,
+    "descricao": "Aplicação em Fundo de Investimento",
+    "local": "C6 Bank",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-03-15",
+    "valor": 320.00,
+    "descricao": "Investimento em Ações Valor",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-03-25",
+    "valor": 140.00,
+    "descricao": "Aplicação em Tesouro IPCA+",
+    "local": "Sicredi",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-05",
+    "valor": 260.00,
+    "descricao": "Investimento em Fundo de Ações",
+    "local": "Nubank",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-15",
+    "valor": 210.00,
+    "descricao": "Aplicação em CDBs de Bancos Médios",
+    "local": "Itaú",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-04-25",
+    "valor": 350.00,
+    "descricao": "Investimento em Ações Small Caps",
+    "local": "C6 Bank",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-05-05",
+    "valor": 160.00,
+    "descricao": "Aplicação em Fundo de Previdência",
+    "local": "Pic Pay",
+    "forma": "Investimento"
+  },
+  {
+    "tipo": "gastou",
+    "data": "2025-05-15",
+    "valor": 270.00,
+    "descricao": "Investimento em Ações Blue Chips",
+    "local": "Sicredi",
+    "forma": "Investimento"
+  }
+]  
